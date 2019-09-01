@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about me!
-
+Hi everyone!!, I am karandeep Singh. Currently studying in VIT vellore,INDIA
 ### More Information
 
 hello world
