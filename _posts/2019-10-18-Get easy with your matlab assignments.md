@@ -18,7 +18,7 @@ Furthermore, the subsequent folder
 
 On the off chance that you won't get an immediate inquiry in word document I sure that you will either get it in any of the PDF records or if nothing else a comparable code where you should do a few alterations. 
 
-Here is the connection - http://tiny.cc/hqmpez
+Here is the connection - [Click here](http://tiny.cc/hqmpez)
 
 And furthermore click the icons below to go along with me on linked in and git hub 
 
