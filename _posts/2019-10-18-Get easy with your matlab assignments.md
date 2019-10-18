@@ -18,8 +18,12 @@ Furthermore, the subsequent folder
 
 On the off chance that you won't get an immediate inquiry in word document I sure that you will either get it in any of the PDF records or if nothing else a comparable code where you should do a few alterations. 
 
+Only vit Students can access this files. So once you click the link please select your vit gmail if to get a access.
+
+Android users-must have google divice policy app installed in there phones for access
+For IOS users Just chill!!
+
 Here is the connection - [Click here](http://tiny.cc/hqmpez)
-<a href="http://tiny.cc/hqmpez">CLICK HERE</a>
 
 And furthermore click the icons below to go along with me on linked in and git hub 
 
