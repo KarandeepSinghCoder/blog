@@ -1,11 +1,7 @@
 ---
 layout: post
-title: how do URL shorteners work
+title:What Is a URL Shortener?
 ---
-
-<h1>What Is a URL Shortener?</h1>
-
-
 A URL shortener is basically a way to make a long URL (Uniform Resource Locator) shorter.  URL shortening services are Web tools (or services) that allow you to provide a long URL to a specific webpage and obtain a much shorter URL from the service provider.
 
 
