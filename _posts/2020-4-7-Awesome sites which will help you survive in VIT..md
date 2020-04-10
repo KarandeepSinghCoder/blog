@@ -27,6 +27,21 @@ I store my daily tast, some deadlines of my DA's, By for the best form of digita
 
 Its a life saver because it works on our Labs also, so you can easily understand the other things for which it can be used.  
 
+<a href="https://bitly.com/">bitly.com</a> <a href="https://tinyurl.com/">tinyurl.com</a>
+
+This are the two best and free url shortners which I use to add small urls to my notes on pdf. This helps me see some important youtube videos which I may have forgotten to see otherwise.
+
+
+<a href="https://github.com/"></a>
+<a href="https://novoresume.com/"></a>
+<a href="https://materializecss.com/"></a>
+<a href="https://www.mentimeter.com/"></a>
+<a href="https://getbootstrap.com/"></a>
+<a href="https://hackerthemes.com/bootstrap-cheatsheet/"></a>
+<a href="https://www.flaticon.com/"></a>
+<a href="https://fontawesome.com/"></a>
+
+important sites as a web developer
 
 
 
