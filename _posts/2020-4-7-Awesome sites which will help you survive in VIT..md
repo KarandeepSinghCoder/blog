@@ -27,12 +27,17 @@ I store my daily tast, some deadlines of my DA's, By for the best form of digita
 
 Its a life saver because it works on our Labs also, so you can easily understand the other things for which it can be used.  
 
-<a href="https://bitly.com/">bitly.com</a> <a href="https://tinyurl.com/">tinyurl.com</a>
+<a href="https://bitly.com/">6) bitly.com,</a> <a href="https://tinyurl.com/">tinyurl.com</a>
 
 This are the two best and free url shortners which I use to add small urls to my notes on pdf. This helps me see some important youtube videos which I may have forgotten to see otherwise.
 
+7) Below are the few common sites which are very pepular among the coders, this helps to improve your job profile as well as your skills.
 
-<a href="https://github.com/"></a>
+i><a href="https://github.com/">github</a>
+It offers the distributed version control and source code management (SCM) functionality of Git, plus its own features. It provides access control and several collaboration features such as bug tracking, feature requests, task management, and wikis for every project. Your progress on git hub adds a lot to your job profile as it tracks the amount of open source codes you did.
+
+ii>
+
 <a href="https://novoresume.com/"></a>
 <a href="https://materializecss.com/"></a>
 <a href="https://www.mentimeter.com/"></a>
