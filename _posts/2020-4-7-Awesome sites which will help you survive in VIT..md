@@ -36,7 +36,10 @@ This are the two best and free url shortners which I use to add small urls to my
 i><a href="https://github.com/">github</a>
 It offers the distributed version control and source code management (SCM) functionality of Git, plus its own features. It provides access control and several collaboration features such as bug tracking, feature requests, task management, and wikis for every project. Your progress on git hub adds a lot to your job profile as it tracks the amount of open source codes you did.
 
-ii>
+ii><a href="https://www.hackerearth.com/">Hackerearth, </a><a href="https://www.hackerrank.com/"></a>hackerrank, <a href="https://codeforces.com/">codeforces, </a><a href="https://stackoverflow.com/">stackoverflow. </a>
+As a CSE Grad these are the sites where you nead to get your hands dirty.You can choose either of hackerearth or hackerrank, I personally prefer Hackerrank.Start your competative coding skills on hackerearth and ultimately earn reputation in codeforces, a good reputation on this platform can make you stand ahead of the other students in your university while placements.
+
+iii>
 
 <a href="https://novoresume.com/"></a>
 <a href="https://materializecss.com/"></a>
