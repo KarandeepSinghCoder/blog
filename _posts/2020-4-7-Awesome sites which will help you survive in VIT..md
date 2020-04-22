@@ -49,6 +49,9 @@ iv>Interview preperation:-
 v>Online resume buider:-
 <a href="https://novoresume.com/">novoresume.com</a>
 
+<h3>Let's get in touch! Do follow me on github, LinkedIn, Twitter etc.</h3>
+<h3>All the links are given below</h3>
+
 
 
 
