@@ -16,4 +16,7 @@ This is the command that gives Git its power. When you commit, you are taking a 
 
 <h2>Fist Create a repo</h2>
 
-<img src="https://raw.githack.com/KarandeepSinghCoder/blog/gh-pages/_posts/img/repo1.jpg">
+<img src="https://raw.githack.com/KarandeepSinghCoder/blog/gh-pages/_posts/img/repo1.jpg" height="500px">
+Make sure you inetilize it with a read me file.
+
+<h2>Now its ready to be cloned in your pc</h2>
