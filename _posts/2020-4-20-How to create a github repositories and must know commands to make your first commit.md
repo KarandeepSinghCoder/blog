@@ -23,14 +23,14 @@ Make sure you inetilize it with a read me file.
 
 <img src="">
 copy the clone repo url. Run cmd at the folder where you want to copy your repo, use <span style="font-weight: bold;">Git clone your-url</span> to start the clonning.
-<img src="">
+<img src="https://raw.githack.com/KarandeepSinghCoder/blog/gh-pages/_posts/img/clone.JPG" height="400px" width="700">
 
 Now you have your Repo cloned at your pc.Make the necessary changes and then we will push it back again to the github repositry so as to reflect the changes made on pc in the repositry.
 
 <h2>[git status]</h2>
 Check if there are already some changes tracked in the repository by git? 
 <span style="background-color: grey">git status</span> will list any files that are changed.
-<img src=" ">
+<img src="https://raw.githack.com/KarandeepSinghCoder/blog/gh-pages/_posts/img/gitStatus.JPG" height="400px" width="700">
 
 <h2>[git add .]</h2>
 This is the first command that you'll run after making some changes to the project files.
