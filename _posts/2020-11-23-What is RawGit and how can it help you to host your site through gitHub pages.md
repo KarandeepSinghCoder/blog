@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is RawGit and how can it help you to host your site through gitHub pages.
+title: What is RawGit and how can it help you to host your site through gitHub pages
 ---
 When you request a file from source control hosting services, they are usually served (in the case of JavaScript, HTML, CSS, and some other file types) with a Content-Type of text/plain. As a result, most modern browsers won't actually interpret it as JavaScript, HTML, or CSS.
 
